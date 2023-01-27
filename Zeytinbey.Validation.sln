@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeytinbey.Validation", "Zeytinbey.Validation\Zeytinbey.Validation.csproj", "{34986698-796E-403D-8472-F675D9155184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34986698-796E-403D-8472-F675D9155184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34986698-796E-403D-8472-F675D9155184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34986698-796E-403D-8472-F675D9155184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34986698-796E-403D-8472-F675D9155184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D2402B-69FC-4A06-B074-5F60C79CE6A3}
+	EndGlobalSection
+EndGlobal
