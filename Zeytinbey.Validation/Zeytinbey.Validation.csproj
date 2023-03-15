@@ -6,13 +6,13 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>$(AssemblyName)</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Sinan İLYAS</Authors>
     <Description>Zeytinbey.Validation is a package which includes libraries that facilitate validation of data input by user.</Description>
     <Copyright>All rights reserved.</Copyright>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageTags>validation email e-mail mail</PackageTags>
-    <PackageReleaseNotes>Initial publish.</PackageReleaseNotes>
+    <PackageReleaseNotes>IsValidEmail method now accepts null as argument value.</PackageReleaseNotes>
     <NeutralLanguage>en-US</NeutralLanguage>
     <AssemblyVersion>$(Version).0</AssemblyVersion>
     <FileVersion>$(AssemblyVersion)</FileVersion>

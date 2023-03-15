@@ -4,8 +4,10 @@ namespace Zeytinbey.Validation
 {
     public static class Validation
     {
-        public static bool IsValidEmail(string email)
+        public static bool IsValidEmail(string? email)
         {
+            if (email == null) return false;
+
             try
             {
                 _ = new MailAddress(email);
